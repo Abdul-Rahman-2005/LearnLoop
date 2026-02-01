@@ -8,7 +8,7 @@ export function Footer() {
           <div className="flex items-center gap-2 text-muted-foreground">
             <BookOpen className="h-5 w-5 text-primary" />
             <span className="font-semibold text-foreground">LearnLoop</span>
-            <span className="text-sm">© {new Date().getFullYear()}All Rights Reserved to SHAIK.ABDUL RAHMAN</span>
+            <span className="text-sm">© {new Date().getFullYear()} All Rights Reserved to SHAIK.ABDUL RAHMAN</span>
           </div>
           
           <p className="text-sm text-muted-foreground flex items-center gap-1">
